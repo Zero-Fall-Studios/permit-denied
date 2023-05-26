@@ -99,7 +99,7 @@ TextureImporter:
       213: -6520157961327291146
     second: Bronze Ring
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -120,6 +120,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -158,6 +159,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -185,6 +187,42 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -880,6 +918,39 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Bronze Amulet: -5852527790838569467
+      Bronze Armor: 2959564979645683085
+      Bronze Axe: 3963470812730156118
+      Bronze Belt: 8808582445582544933
+      Bronze Boots: -5739271132696198839
+      Bronze Bow: 3792280848640352065
+      Bronze Gloves: -8896123986192589617
+      Bronze Heavy Shield: 3519210134167707818
+      Bronze Helmet: 7775069057304573042
+      Bronze Legs: -178525907719333092
+      Bronze Mace: -8673080804708043843
+      Bronze Ring: -6520157961327291146
+      Bronze Shield: 8850289860080870641
+      Bronze Short Sword: -9132995373345186136
+      Bronze Sword: 458204686719832544
+      Bronze Wand: -7608992908463792767
+      Gray Amulet: -2527500072168572386
+      Gray Armor: -3999862311311128979
+      Gray Axe: 1290649075694196888
+      Gray Belt: 8567465399835369255
+      Gray Bow: 3197427697454604945
+      Gray Heavy Shield: 620306345077508108
+      Gray Helmet: -8607026448245942651
+      Gray Legs: 61832717825666278
+      Gray Mace: 914208449539336985
+      Gray Ring: -4969174371587974711
+      Gray Shield: -6617392517511155208
+      Gray Short Sword: -6541341018028497752
+      Gray Sword: -8843222049436664436
+      Gray Wand: -617275335044829790
+      Grey Boots: -6318345456997710677
+      Grey Gloves: -2569576596603671847
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
